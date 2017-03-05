@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetsNews", "GadgetsNews\GadgetsNews.csproj", "{AB918826-86F8-41A4-8771-0EDA81D0AC68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{710942C6-6390-46B9-99E6-0377C642D7A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{09831353-57BE-4438-81A8-4245A53989C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface", "Interface", "{069CF4B2-22AF-44C1-A694-35D74C115687}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{5E1D7D62-E02D-424E-9E8F-5EF6FFFEA47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetsNews.Service.Interface", "GadgetsNews.Service.Interface\GadgetsNews.Service.Interface.csproj", "{91599F4D-A95E-4B19-B4AC-DF74EC62E763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetsNews.Repository.Interface", "GadgetsNews.Repository.Interface\GadgetsNews.Repository.Interface.csproj", "{87C56FCB-D17D-4314-A0C5-2A219C9FE944}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{80FB0C28-10C5-452F-9B81-EE37FA84856D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetsNews.PocoEntities", "GadgetsNews.PocoEntities\GadgetsNews.PocoEntities.csproj", "{10D7BCB6-C57C-4CC1-A3E7-3AFDFCBE6552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetsNews.ViewModel", "GadgetsNews.ViewModel\GadgetsNews.ViewModel.csproj", "{26823475-09DD-4C6D-BCDE-746ACFC6EA8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{ED851E04-2C38-43C1-9D57-2AE9357AEA7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetsNews.Mobiles.Service", "GadgetsNews.Mobiles.Service\GadgetsNews.Mobiles.Service.csproj", "{B4C782AA-8F6F-4375-AEEE-4B25BDC611A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetsNews.Mobile.Repository", "GadgetsNews.Mobile.Repository\GadgetsNews.Mobile.Repository.csproj", "{62541F5F-0B22-4631-9EF3-12390289E9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB918826-86F8-41A4-8771-0EDA81D0AC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB918826-86F8-41A4-8771-0EDA81D0AC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB918826-86F8-41A4-8771-0EDA81D0AC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB918826-86F8-41A4-8771-0EDA81D0AC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91599F4D-A95E-4B19-B4AC-DF74EC62E763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91599F4D-A95E-4B19-B4AC-DF74EC62E763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91599F4D-A95E-4B19-B4AC-DF74EC62E763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91599F4D-A95E-4B19-B4AC-DF74EC62E763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C56FCB-D17D-4314-A0C5-2A219C9FE944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C56FCB-D17D-4314-A0C5-2A219C9FE944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C56FCB-D17D-4314-A0C5-2A219C9FE944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C56FCB-D17D-4314-A0C5-2A219C9FE944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D7BCB6-C57C-4CC1-A3E7-3AFDFCBE6552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D7BCB6-C57C-4CC1-A3E7-3AFDFCBE6552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D7BCB6-C57C-4CC1-A3E7-3AFDFCBE6552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D7BCB6-C57C-4CC1-A3E7-3AFDFCBE6552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26823475-09DD-4C6D-BCDE-746ACFC6EA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26823475-09DD-4C6D-BCDE-746ACFC6EA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26823475-09DD-4C6D-BCDE-746ACFC6EA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26823475-09DD-4C6D-BCDE-746ACFC6EA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C782AA-8F6F-4375-AEEE-4B25BDC611A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C782AA-8F6F-4375-AEEE-4B25BDC611A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C782AA-8F6F-4375-AEEE-4B25BDC611A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C782AA-8F6F-4375-AEEE-4B25BDC611A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62541F5F-0B22-4631-9EF3-12390289E9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62541F5F-0B22-4631-9EF3-12390289E9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62541F5F-0B22-4631-9EF3-12390289E9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62541F5F-0B22-4631-9EF3-12390289E9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB918826-86F8-41A4-8771-0EDA81D0AC68} = {5E1D7D62-E02D-424E-9E8F-5EF6FFFEA47D}
+		{91599F4D-A95E-4B19-B4AC-DF74EC62E763} = {069CF4B2-22AF-44C1-A694-35D74C115687}
+		{87C56FCB-D17D-4314-A0C5-2A219C9FE944} = {069CF4B2-22AF-44C1-A694-35D74C115687}
+		{10D7BCB6-C57C-4CC1-A3E7-3AFDFCBE6552} = {80FB0C28-10C5-452F-9B81-EE37FA84856D}
+		{26823475-09DD-4C6D-BCDE-746ACFC6EA8A} = {80FB0C28-10C5-452F-9B81-EE37FA84856D}
+		{B4C782AA-8F6F-4375-AEEE-4B25BDC611A6} = {710942C6-6390-46B9-99E6-0377C642D7A4}
+		{62541F5F-0B22-4631-9EF3-12390289E9CF} = {09831353-57BE-4438-81A8-4245A53989C4}
+	EndGlobalSection
+EndGlobal
