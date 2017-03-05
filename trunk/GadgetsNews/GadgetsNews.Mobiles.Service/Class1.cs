@@ -8,9 +8,6 @@ namespace GadgetsNews.Mobiles.Service
 {
     public class Class1
     {
-        public void Method1()
-        {
-            Console.WriteLine("hai new changes");
-        }
+        
     }
 }
