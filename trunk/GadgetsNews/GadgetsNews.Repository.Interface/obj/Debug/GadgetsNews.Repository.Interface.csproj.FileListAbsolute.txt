@@ -1,0 +1,5 @@
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Repository.Interface\bin\Debug\GadgetsNews.Repository.Interface.dll
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Repository.Interface\bin\Debug\GadgetsNews.Repository.Interface.pdb
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Repository.Interface\obj\Debug\GadgetsNews.Repository.Interface.csprojResolveAssemblyReference.cache
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Repository.Interface\obj\Debug\GadgetsNews.Repository.Interface.dll
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Repository.Interface\obj\Debug\GadgetsNews.Repository.Interface.pdb

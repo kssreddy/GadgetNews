@@ -1,0 +1,4 @@
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.ViewModel\bin\Debug\GadgetsNews.ViewModel.dll
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.ViewModel\bin\Debug\GadgetsNews.ViewModel.pdb
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.ViewModel\obj\Debug\GadgetsNews.ViewModel.dll
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.ViewModel\obj\Debug\GadgetsNews.ViewModel.pdb

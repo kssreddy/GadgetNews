@@ -1,0 +1,12 @@
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\app.component.js
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\app.component.js.map
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\app.module.js
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\app.module.js.map
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\main.js
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\main.js.map
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\app.component.js
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\app.component.js.map
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\app.module.js
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\app.module.js.map
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\main.js
+G:\SVN Working Copy\trunk\GadgetsNews\UI\app\main.js.map

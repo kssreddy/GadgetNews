@@ -1,0 +1,5 @@
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.PocoEntities\bin\Debug\GadgetsNews.PocoEntities.dll
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.PocoEntities\bin\Debug\GadgetsNews.PocoEntities.pdb
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.PocoEntities\obj\Debug\GadgetsNews.PocoEntities.csprojResolveAssemblyReference.cache
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.PocoEntities\obj\Debug\GadgetsNews.PocoEntities.dll
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.PocoEntities\obj\Debug\GadgetsNews.PocoEntities.pdb

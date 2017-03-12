@@ -1,0 +1,4 @@
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Mobiles.Service\bin\Debug\GadgetsNews.Mobiles.Service.dll
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Mobiles.Service\bin\Debug\GadgetsNews.Mobiles.Service.pdb
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Mobiles.Service\obj\Debug\GadgetsNews.Mobiles.Service.dll
+G:\SVN Working Copy\trunk\GadgetsNews\GadgetsNews.Mobiles.Service\obj\Debug\GadgetsNews.Mobiles.Service.pdb
